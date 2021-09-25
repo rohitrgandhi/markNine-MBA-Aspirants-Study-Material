@@ -128,8 +128,8 @@ export default function App() {
             >
               <div
                 style={{
-                  fontSize: "larger",
-                  backgroundColor: "#9CA3AF"
+                  fontSize: "1.2rem",
+                  backgroundColor: "#D1D5DB"
                 }}
               >
                 {" "}
